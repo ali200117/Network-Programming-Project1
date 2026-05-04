@@ -19,5 +19,5 @@ public class DisplayDevice {
 		
 		System.out.println("Display server stopping ...");
 		
-	}
+	}//s
 }

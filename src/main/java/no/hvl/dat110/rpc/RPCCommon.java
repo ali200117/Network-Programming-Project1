@@ -6,3 +6,4 @@ public class RPCCommon {
 	// no other RPC methods should use this 0 as RPC id
 	public static byte RPIDSTOP = 0;
 }
+//s
